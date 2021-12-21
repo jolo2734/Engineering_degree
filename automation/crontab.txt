@@ -1,2 +1,2 @@
-@reboot sudo netplan apply						#statyczne IP
+@reboot sudo netplan apply					                	#statyczne IP
 @reboot at now + 1 min -f  /home/ubuntu/start-bettercap.sh		#uruchomienie skryptu z bettercap'em
