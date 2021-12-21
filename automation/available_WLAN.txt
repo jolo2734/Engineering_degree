@@ -1,0 +1,26 @@
+                    Quality=60/70  Signal level=-50 dBm
+                    ESSID:"NETIASPOT-CDD280"
+                    Quality=33/70  Signal level=-77 dBm
+                    ESSID:"Orange_Swiatlowod_D140"
+                    Quality=42/70  Signal level=-68 dBm
+                    ESSID:"Orange_Swiatlowod_0250"
+                    Quality=30/70  Signal level=-80 dBm
+                    ESSID:"FunBox2-E1AE"
+                    Quality=47/70  Signal level=-63 dBm
+                    ESSID:"NETIASPOT-954EA0"
+                    Quality=35/70  Signal level=-75 dBm
+                    ESSID:"Orange_Swiatlowod_770C"
+                    Quality=23/70  Signal level=-87 dBm
+                    ESSID:"Orange_Swiatlowod_C0C0"
+                    Quality=31/70  Signal level=-79 dBm
+                    ESSID:"Orange_Swiatlowod_21AA"
+                    Quality=25/70  Signal level=-85 dBm
+                    ESSID:"Orange_Swiatlowod_770C"
+                    Quality=35/70  Signal level=-75 dBm
+                    ESSID:"DIRECT-og48-TS5100series"
+                    Quality=40/70  Signal level=-70 dBm
+                    ESSID:"FunBox2-E1AE"
+                    Quality=33/70  Signal level=-77 dBm
+                    ESSID:"FunBox2-DD88_2G"
+                    Quality=34/70  Signal level=-76 dBm
+                    ESSID:"Orange_Swiatlowod_21AA"
