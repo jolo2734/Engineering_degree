@@ -1,3 +1,4 @@
 ADD instruction to install bettercap
 FINALIZE autoconnect to best open WLAN
+ADD new branch with new bettercap version
 ADD connecting to protected WLAN
