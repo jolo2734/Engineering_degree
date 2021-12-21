@@ -1,0 +1,3 @@
+ADD instruction to install bettercap
+FINALIZE autoconnect to best open WLAN
+ADD connecting to protected WLAN
