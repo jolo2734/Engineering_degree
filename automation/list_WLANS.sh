@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo iwlist wlan0 scan | grep -E 'Quality|ESSID' > available_WLAN.txt
+sudo iwlist wlan0 scan | grep -E 'Quality|ESSID' > /home/ubuntu/available_WLAN.txt
 FILE="/home/ubuntu/available_WLAN.txt"
 
 
