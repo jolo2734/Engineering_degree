@@ -18,3 +18,4 @@ echo '        id_str="STUDY"' >> /etc/wpa_supplicant.conf
 echo '}' >> /etc/wpa_supplicant.conf
 
 systemctl restart wpa_supplicant
+sudo dhclient wlan0
