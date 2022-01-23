@@ -1,5 +1,5 @@
 #connect to WLAN
-@reboot at now + 1 min -f /home/ubuntu/inzynierka/automation/connect.sh
+@reboot at now + 1 min -f $HOME/inzynierka/automation/connect.sh
 
 #start bettercap
-@reboot at now + 2 min -f /home/ubuntu/start-bettercap.sh
+@reboot at now + 2 min -f $HOME/inzynierka/bettercap/start-bettercap.sh
