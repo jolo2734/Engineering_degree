@@ -16,5 +16,8 @@ cd bettercap-2.32.0
 #install bettercap
 make build
 
+#add script to PATH
+export PATH="$HOME/bettercap-2.32.0/bettercap:$PATH"
+
 #launch bettercap
 sudo ./bettercap
