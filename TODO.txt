@@ -1,4 +1,9 @@
-ADD instruction to install bettercap
-FINALIZE autoconnect to best open WLAN
-ADD new branch with new bettercap version
+IMPROVE bettercap options launch
+  -logging
+  -better password harvesting
+IMPROVE credentials filter
+  -where from [IP]
+  -where from [site]
+  -exactly only login and password(without unnecessary informations)
+TRY with HSTS hijack from Jakub
 ADD connecting to protected WLAN
