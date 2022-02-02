@@ -9,3 +9,6 @@ RaspberryPI should be cable free:
 
 Most of scripts have not been code optimized yet.
 On master branch is bettercap v1.6.2 - very old one, still works, but easy to detect and slow down network to death.
+
+Choose targets
+To choose targets you need to edit file hstshijack.cap by setting arp.spoof.targets.
